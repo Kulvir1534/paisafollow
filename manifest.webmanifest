@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "PaisaFollow | Receivables, under control",
+  "short_name": "PaisaFollow",
+  "description": "Manage customer dues, invoices, payments and follow-ups.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#101b32",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
